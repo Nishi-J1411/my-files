@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading {
+    margin: 50px;
+    padding: 50px;
+    display: inline-block;
+    background:  linear-gradient(to top, rgb(199, 231, 255), white);
+    border-radius: 600px;
+    text-align: left;
+    align-content: center;
+
+}
+.heading span{
+    display: block;
+}
